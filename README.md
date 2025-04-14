@@ -2,7 +2,7 @@
 
 A Streamlit app that connects to your Google Shared Drives and identifies:
 - 📄 Duplicate files
-- 🕒 Old/stale files (over 2 years old)
+- 🕒 Old/stale files (over 2 years old) #you can always change the time frame you want to run through
 
 ## 🚀 Features
 
